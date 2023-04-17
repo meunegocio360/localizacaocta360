@@ -1,0 +1,34 @@
+#: locale=pt
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_82A3DCCE_8D15_6147_416F_B894545FA1C1.text = AV. JACU-PÊSSEGO
+HotspotPanoramaOverlayTextImage_8343CBD4_8D17_675B_41C3_AB0BB7AE48FB.text = CTA DOM BOSCO
+HotspotPanoramaOverlayTextImage_83D7B8C9_8D15_214C_41D8_1BFC839C7F63.text = ESTAÇÃO DOM BOSCO
+HotspotPanoramaOverlayTextImage_82388AB4_8D2B_21DB_41DB_7C915636EB96.text = MC DONALDS
+HotspotPanoramaOverlayTextImage_9EEDB569_8D6B_234C_41DA_AC30082FD499.text = RUA ITALINA
+
+## Media
+
+### Audio
+audiores_9CD257E7_8D14_EF45_41CB_858EBE13FBD4.mp3Url = media/audio_9CEC3E1F_8D17_20C5_41BD_FDD5514F0EC6_pt.mp3
+
+### Image
+imlevel_9C21C76B_8D17_6F4D_41D6_FB6B938FCCFF.url = media/panorama_87D63AA5_8D14_E1C5_41CD_A9ADF0C84B5B_HS_2wssu43k_pt.png
+imlevel_9C6D6842_8D17_60BF_41C9_20BE9A85B908.url = media/panorama_87D63AA5_8D14_E1C5_41CD_A9ADF0C84B5B_HS_s0icdkq1_pt.png
+imlevel_9C7517B3_8D17_6FDD_41E1_7CA1C3A2003F.url = media/panorama_87D63AA5_8D14_E1C5_41CD_A9ADF0C84B5B_HS_suv9zezz_pt.png
+imlevel_9C6CD7FA_8D17_6F4F_41C8_A990D1ED11BB.url = media/panorama_87D63AA5_8D14_E1C5_41CD_A9ADF0C84B5B_HS_twa5kin7_pt.png
+imlevel_9824D845_8D75_2145_41DD_24C3A57462AA.url = media/panorama_87D63AA5_8D14_E1C5_41CD_A9ADF0C84B5B_HS_ud1z3br8_pt.png
+
+### Title
+panorama_87D63AA5_8D14_E1C5_41CD_A9ADF0C84B5B.label = Drone CTA
+panorama_9DEE7637_8D2D_60C5_41E0_45260AAB6B1E.label = Fachada Dom Bosco
+
+## Tour
+
+### Description
+tour.description = Av. Jacu-Pêssego, 2139 - Vila Jacuí, São Paulo - SP, 08215-115
+
+### Title
+tour.name = CTA DOM BOSCO - 360° GRAUS
